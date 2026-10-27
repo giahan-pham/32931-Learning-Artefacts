@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+ISLP
+notebook
+jupyterlab
+
+# Some optional advanced exercises may additionally need:
+# lifelines (Chapter 11)
+# torch / torchvision (Chapter 10)
+# xgboost (some Chapters 8–10 methods)

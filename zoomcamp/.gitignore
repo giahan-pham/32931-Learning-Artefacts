@@ -1,0 +1,26 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Mac and editor files
+.DS_Store
+.vscode/
+
+# Taxi data (public; the notebooks download or read it)
+*.parquet
+
+# MLflow results (recreated by running the notebooks)
+*.db
+mlruns/
+mlartifacts/
+artifacts/
+
+# Generated outputs and models
+module_2/output/
+module 3/models/
+module 5/data/
+module 5/models/
+module 6/homework/output/
+# module 6/homework/model.bin is kept: it's the course's trained model and batch.py needs it

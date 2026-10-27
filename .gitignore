@@ -1,0 +1,8 @@
+# Applies to every folder in this repo
+.DS_Store
+.vscode/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
